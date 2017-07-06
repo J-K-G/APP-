@@ -19,3 +19,18 @@
 
 注意：前提是要安装配置了jdk！
 
+
+
+2、MySQL下载和安装：
+
+官网下载：https://dev.mysql.com/downloads/file/?id=469273 （点击页面后的No,thanks...可以直接下载）
+
+版本5.7.17直接傻瓜式安装，然后配置环境变量，在path中添加server的bin目录
+C:\Program Files\MySQL\MySQL Server 5.7\bin
+
+测试是否安装成功：
+cmd --> mysql -u root -p ，然后输入密码就可以看到对应信息
+
+MySQL安装博客（win10）：http://blog.csdn.net/vincentlmeng/article/details/70160475
+
+MySQL安装博客：http://blog.csdn.net/youyu_torch/article/details/74512946
