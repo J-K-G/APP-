@@ -1,3 +1,4 @@
+
 # APP服务端搭建
 1、Tomcat的下载安装：
 
@@ -30,6 +31,8 @@ C:\Program Files\MySQL\MySQL Server 5.7\bin
 
 测试是否安装成功：
 cmd --> mysql -u root -p ，然后输入密码就可以看到对应信息
+
+![iamge text](https://github.com/J-K-G/APP-/blob/master/image/mysql_test.PNG)
 
 MySQL安装博客（win10）：http://blog.csdn.net/vincentlmeng/article/details/70160475
 
