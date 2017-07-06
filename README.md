@@ -1,4 +1,3 @@
-
 # APP服务端搭建
 1、Tomcat的下载安装：
 
@@ -39,7 +38,7 @@ MySQL安装博客（win10）：http://blog.csdn.net/vincentlmeng/article/details
 MySQL安装博客：http://blog.csdn.net/youyu_torch/article/details/74512946
 
 
-下载安装MySQLyog：
+3、下载安装MySQLyog：
 
 傻瓜式安装,完成后建立和MySQL的连接
 
@@ -48,4 +47,13 @@ MySQL安装博客：http://blog.csdn.net/youyu_torch/article/details/74512946
 点击右边的test..测试成功后，点击connect。
 
 
+4、数据库建表，然后插入数据。
+
+在sqlyog中新建一张表，注意设置编码为utf8
+
+![image text](https://github.com/J-K-G/APP-/blob/master/image/sqlyog_create_database.PNG)
+
+然后在代码输入框拷贝进去shopvisit的sql语句，选择shopvisit，然后excute all即可。刷新后就可以在table里面看到插进去的信息了。
+
+![image text](https://github.com/J-K-G/APP-/blob/master/image/sqlyog_init.PNG)
 
