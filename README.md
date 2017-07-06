@@ -33,6 +33,15 @@ cmd --> mysql -u root -p ，然后输入密码就可以看到对应信息
 
 ![iamge text](https://github.com/J-K-G/APP-/blob/master/image/mysql_test.PNG)
 
+![image text](https://github.com/J-K-G/APP-/blob/master/image/sqlyog_create.PNG)
+
+注意：MySQL的密码需要在服务器项目上面同步修改，才可以被访问。修改\webapps\visitshop\WEB-INF\classes下的hibernate.cfg.xml文件，
+在里面找到用户名和密码进行修改即可。
+
+![image text](https://github.com/J-K-G/APP-/blob/master/image/directory.PNG)
+
+![image text](https://github.com/J-K-G/APP-/blob/master/image/sync_psd.PNG)
+
 MySQL安装博客（win10）：http://blog.csdn.net/vincentlmeng/article/details/70160475
 
 MySQL安装博客：http://blog.csdn.net/youyu_torch/article/details/74512946
