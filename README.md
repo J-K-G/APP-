@@ -37,3 +37,15 @@ cmd --> mysql -u root -p ，然后输入密码就可以看到对应信息
 MySQL安装博客（win10）：http://blog.csdn.net/vincentlmeng/article/details/70160475
 
 MySQL安装博客：http://blog.csdn.net/youyu_torch/article/details/74512946
+
+
+下载安装MySQLyog：
+
+傻瓜式安装,完成后建立和MySQL的连接
+
+![image text](https://github.com/J-K-G/APP-/blob/master/image/sqlyog_create.PNG)
+
+点击右边的test..测试成功后，点击connect。
+
+
+
